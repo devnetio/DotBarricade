@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("DotBarricade.Core")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c428fcf21b5acd6db0d629d6b43191e2ce0300ac")]
 [assembly: System.Reflection.AssemblyProductAttribute("DotBarricade.Core")]
 [assembly: System.Reflection.AssemblyTitleAttribute("DotBarricade.Core")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
