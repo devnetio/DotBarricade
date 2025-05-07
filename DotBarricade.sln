@@ -3,6 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DotBarricade.Core", "src\DotBarricade.Core\DotBarricade.Core.csproj", "{8FA9A3C9-0752-437E-8584-0B9355028909}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{8E133AF8-560C-4458-9924-3EB68D44C3E7}"
+	ProjectSection(SolutionItems) = preProject
+		src\.gitignore = src\.gitignore
+	EndProjectSection
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "zvAZzaUDWbZgwrD/i9vs9T9XcFeFtgp0Obpx5pM16bBMLMcmff80vJFB9ROFrbLhRTe2ht0iEE5Fg6zVgI2MaQ==",
+  "dgSpecHash": "/LntnRqOF0CNn1D6gJVjdsfUGLWhyzQdBCKK+00CMYeOx/zIykovfXDWShdXdNhxDGXLIJD191wmypcTD5MTxw==",
   "success": true,
   "projectFilePath": "/Users/mark/RiderProjects/DotBarricade/src/DotBarricade.Core/DotBarricade.Core.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "/Users/mark/.nuget/packages/microsoft.netcore.app.ref/6.0.31/microsoft.netcore.app.ref.6.0.31.nupkg.sha512",
+    "/Users/mark/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.31/microsoft.aspnetcore.app.ref.6.0.31.nupkg.sha512",
+    "/Users/mark/.nuget/packages/microsoft.netcore.app.ref/7.0.20/microsoft.netcore.app.ref.7.0.20.nupkg.sha512",
+    "/Users/mark/.nuget/packages/microsoft.aspnetcore.app.ref/7.0.20/microsoft.aspnetcore.app.ref.7.0.20.nupkg.sha512"
+  ],
   "logs": []
 }
